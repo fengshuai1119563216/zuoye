@@ -2,4 +2,4 @@
 ###### 在开发过程中我尝试了两种部署方式,第一种为前后端分离模式,第二种为将angular集成到spring boot项目的静态资源并打包成jar包的方式: ######
 ######  1.前后端分离模式,使用 ng serve将前端部署到 4200端口 ,使用 spring boot 入口函数将项目部署到 8889端口。 ######
 ######  2.集成方式,将angualr2代码打包,放入spring boot的静态资源中。 ######
-###### 说明:spring boot 为集成模式的项目代码 ，spring boot-back,angular -cli为前后端分离模式代码。 ######
+### 说明:spring boot 为集成模式的项目代码 ，spring boot-back,angular -cli为前后端分离模式代码。 ###
